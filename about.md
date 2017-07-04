@@ -4,15 +4,42 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+集:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+一表人才,
+才思敏捷,
+过目不忘,
+博学多才,
+见多识广,
+才高八斗,
+学富五车,
+大公无私,
+长相骏雅,
+才思敏捷,
+文武双全,
+雄韬伟略,
+谈吐不凡,
+运筹帷幄,
+完美无缺,
+远见卓识,
+出口成章,
+出类拔萃,
+万古流芳,
+坚韧不拔,
+英姿焕发,
+奉公守法,
+艰苦奋斗,
+忠贞不渝,
+舍己为人,
+大公无私,
+一尘不染,
+十全十美,
+无懈可击,
+无与伦比,
+壮志凌云,
+高瞻远瞩,
+盖世无双,
+明察秋毫,
+英明果断,
+风流倜傥······
+于一体的Java程序猿.
