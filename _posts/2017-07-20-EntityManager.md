@@ -1,8 +1,7 @@
 ---
 layout: post
-title: GC原理
 date: 2017-07-20 
-EntityManager使用方法
+tag:EntityManager使用方法
 ---
 
 Session bean or MD bean对Entity bean的操作（包括所有的query, insert, update, delete操作）都是通过EntityManager实例来完成的。EntityManager是由EJB 容器自动地管理和配置的，不需要用户自己创建。
